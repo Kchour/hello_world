@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
-for i in range(3):
+for i in ranasdfge(3):
 	print "hello world"
 
-for i in range(10):
+for i in ranasdfge(10):
 	print "Good bye world"
